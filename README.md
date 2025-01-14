@@ -1,4 +1,5 @@
 # Energy Demand Forecasting for Electric Vehicles
+![Presentation1](https://github.com/user-attachments/assets/8602c9ef-40fa-436a-a27e-2a4427935986)
 
 ## Introduction
 The transition to electric vehicles (EVs) is accelerating globally, necessitating accurate forecasting of energy demand to ensure the reliability of power supply systems. This project aims to develop effective forecasting models that predict energy consumption based on historical electricity data delivered for EV charging. Accurate forecasting is essential for optimizing grid operations, reducing costs, and planning infrastructure development.
