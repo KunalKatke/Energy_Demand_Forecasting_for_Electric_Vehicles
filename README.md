@@ -51,3 +51,10 @@ Future explorations could include:
 ## Installation
 To run this project locally:
 1. Clone the repository:
+git clone https://github.com/KunalKatke/Energy_Demand_Forecasting_for_Electric_Vehicles
+
+2. Navigate to the project directory:
+cd Energy_Demand_Forecasting_for_Electric_Vehicles
+
+3. Install required packages:
+pip install -r requirements.txt
